@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topic id="introduction">
+<title>Introduction to DITA</title>
+<shortdesc>This document provides an introduction to DITA, its structure, and how to create DITA documents.</shortdesc>
+<body>
+<section id="what_is_dita">
+<title>What is DITA?</title>
+<p>DITA (Darwin Information Typing Architecture) is an XML-based standard for authoring, producing, and delivering technical information. It is designed to support the creation of modular content that can be reused across different documents and formats.</p>
+</section>
+<section id="dita_structure">
+<title>DITA Structure</title>
+<p>DITA documents are structured into topics, maps, and references. Topics contain the content, while maps organize these topics into a coherent structure for publication. DITA supports various types of topics such as concept, task, and reference.</p>
+</section>
+<section id="who_can_use_dita">
+<title>Who can use DITA?</title>
+<p>DITA can be used by technical writers, content developers, and organizations that need to create and manage large volumes of technical documentation. It is particularly useful for those who require content reuse and multi-channel publishing capabilities.</p>
+</section>
+</body>
+</topic> 

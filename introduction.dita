@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "introduction.dtd">
 <topic id="introduction">
 <title>Introduction to DITA</title>
 <shortdesc>This document provides an introduction to DITA, its structure, and how to create DITA documents.</shortdesc>
@@ -18,3 +18,4 @@
 </section>
 </body>
 </topic> 
+

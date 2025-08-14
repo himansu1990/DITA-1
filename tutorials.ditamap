@@ -2,6 +2,6 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map title="DITA Tutorials" id="tutorials.ditamap">
 <title>Complete DITA tutorial</title>
-<topicref href="introduction.dita" format="dita"/>
+<topicref href="introduction.dita" format="dita" type="topic" navtitle="Introduction"/>
 <topicref href="getting_started.dita" format="dita" type="topic" navtitle="DITA Tutorial"/>
 </map>

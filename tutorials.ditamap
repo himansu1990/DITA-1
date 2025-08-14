@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map>
+<map title="DITA Tutorials" id="tutorials.ditamap">
 <title>Complete DITA tutorial</title>
 <topicref href="introduction.dita" format="dita"/>
-<topicref href="getting_started.dita" format="dita"/>
+<topicref href="getting_started.dita" format="dita" type="topic" navtitle="DITA Tutorial"/>
 </map>
